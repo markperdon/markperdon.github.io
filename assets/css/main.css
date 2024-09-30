@@ -15,7 +15,13 @@
 	--MATH-PI: 3.1415px;
 	--percent: 100;
 }
-
+.card{
+	min-height: 450px !important;
+}
+.card-text{
+	min-height: 120px !important;
+}
+  
 html {
 	font-size: 100%;
     font-family: 'PT Sans', sans-serif;
